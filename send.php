@@ -1,6 +1,6 @@
 <?php
-$client_id = '11c26bde-72bd-49b7-9dde-e42f4802081a';
-$client_secret = 'OZlOm443HK0NCPaFpy6kulQJHtrUpcTqxAIesHCTB5GMCtDAj3JHPN3xpmGDfvd1';
+$client_id = 'c81c3946-afbb-47ad-976b-176dcdcc8108';
+$client_secret = 'xUQKuxDWw6bS4AgCdxoWDkClTuiZ3s1pocB9xLcGgIULXANz6B2M9v37RwEzF5Cd';
 $redirect_uri = 'https://cx34086.tw1.ru/';
 $auth_url = 'https://lerasycheva01.amocrm.ru/oauth/authorize';
 
